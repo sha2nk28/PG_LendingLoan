@@ -1,0 +1,20 @@
+Conslusion 1:
+People with annual salary less than or equal to 300000 tend to default more. so they should take loan for longer term
+
+
+People with 10+ years experience default most
+
+people living on Rent or have home mortgage default most
+
+DEBT Consolidation has most defaulters. Less Income and more rotational balance default more. Higher DTI is indicator
+
+highest defaulter are in CA, FL, NY
+
+
+Key Indicators:
+
+1. Salary with respect to Time Period. Less salary applied for less time defaults
+2. High year of experience with respect to DTI.
+3. High loan amount and type of home stay
+4. Loan taken for debt consolidation
+5. Loan applicants applied from CA, FL and NY.
